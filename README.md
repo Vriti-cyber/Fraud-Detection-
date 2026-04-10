@@ -1,4 +1,4 @@
-# 🚀 Fraud Detection System using AI & Blockchain
+# 🚀 Fraud Detection System using XGBoost & Blockchain
 
 ## 📌 Overview
 This project detects fraudulent credit card transactions using a Machine Learning model (XGBoost) and securely tracks model updates using Blockchain technology.
