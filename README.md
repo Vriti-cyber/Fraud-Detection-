@@ -22,7 +22,7 @@ This project detects fraudulent credit card transactions using a Machine Learnin
 
 ## 📊 Dataset
 Download dataset from:
-👉 (PASTE YOUR GOOGLE DRIVE LINK HERE)
+
 
 Place `creditcard.csv` inside the project folder before running.
 
